@@ -1,0 +1,8 @@
+# Arquivos de log
+*.log
+
+# Arquivos de configuração específicos
+config.js
+
+# Diretórios de dependências (por exemplo, node_modules em projetos Node.js)
+/node_modules/
